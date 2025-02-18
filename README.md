@@ -7,3 +7,8 @@
 ### EX01-05 Caesar Cipher: Encode and decode
 ### EX01-06 簡易購物車
 ### EX01-07 美食資訊查詢
+## Web Crawler
+## Data Analysis
+## Machine Learning
+## Web API
+## Web System
