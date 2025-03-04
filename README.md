@@ -6,7 +6,7 @@
 ### [EX01-04 終極密碼](https://colab.research.google.com/drive/1HVpOPjkvs1Eb7OmNUDBg756vK9suGj6w)
 ### [EX01-05 Caesar Cipher: Encode and decode](https://colab.research.google.com/drive/1I4eakVD-Lf6w2XQfEd97yYG_eIWGEV7p#scrollTo=_lTaG2jlJqKn)
 ### [EX01-06 簡易購物車](https://colab.research.google.com/drive/1wRwaKiIPpflE4BDS0EZFU7Do1TTaqP9k#scrollTo=kZdjSOiuUE0r)
-### EX01-07 美食資訊查詢
+### [EX01-07 美食資訊查詢](https://colab.research.google.com/drive/1PmxUdpLIOpaIQBcpsw2_CwUyn_XqdAyY#scrollTo=bl60EYf23nhv)
 ## Web Crawler
 ## Data Analysis
 ## Machine Learning
