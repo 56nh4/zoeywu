@@ -7,6 +7,7 @@
 ### [EX01-05 Caesar Cipher: Encode and decode](https://colab.research.google.com/drive/1I4eakVD-Lf6w2XQfEd97yYG_eIWGEV7p#scrollTo=_lTaG2jlJqKn)
 ### [EX01-06 簡易購物車](https://colab.research.google.com/drive/1wRwaKiIPpflE4BDS0EZFU7Do1TTaqP9k#scrollTo=kZdjSOiuUE0r)
 ### [EX01-07 美食資訊查詢](https://colab.research.google.com/drive/1PmxUdpLIOpaIQBcpsw2_CwUyn_XqdAyY#scrollTo=bl60EYf23nhv)
+### [EX02-01 My Chatbot](https://colab.research.google.com/drive/1y5UWokIxzyV56SQ9emsF-hiK2bWHOWbq#scrollTo=WE3XbmopUXUm)
 ## Web Crawler
 ## Data Analysis
 ## Machine Learning
