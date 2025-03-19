@@ -8,6 +8,7 @@
 ### [EX01-06 簡易購物車](https://colab.research.google.com/drive/1wRwaKiIPpflE4BDS0EZFU7Do1TTaqP9k#scrollTo=kZdjSOiuUE0r)
 ### [EX01-07 美食資訊查詢](https://colab.research.google.com/drive/1PmxUdpLIOpaIQBcpsw2_CwUyn_XqdAyY#scrollTo=bl60EYf23nhv)
 ### [EX02-01 My Chatbot](https://colab.research.google.com/drive/1y5UWokIxzyV56SQ9emsF-hiK2bWHOWbq#scrollTo=WE3XbmopUXUm)
+### [EX02-02 高雄紅橘線捷運車站位置查詢](https://colab.research.google.com/drive/1QWr4S6VxSugW9OrtIOKBQR8OLENYdKrj#scrollTo=lJ5XcxFhMqHE)
 ## Web Crawler
 ## Data Analysis
 ## Machine Learning
