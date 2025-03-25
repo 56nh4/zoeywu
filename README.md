@@ -10,8 +10,8 @@
 ### [EX02-01 My Chatbot](https://colab.research.google.com/drive/1y5UWokIxzyV56SQ9emsF-hiK2bWHOWbq#scrollTo=WE3XbmopUXUm)
 ### [EX02-02 高雄紅橘線捷運車站位置查詢](https://colab.research.google.com/drive/1QWr4S6VxSugW9OrtIOKBQR8OLENYdKrj#scrollTo=lJ5XcxFhMqHE)
 ### [EX02-03 Yahoo 新聞儲存 Google 試算表](https://colab.research.google.com/drive/1MCGWwsijBz-7HqDrupPRZFs2UMTjmwTE#scrollTo=L1SeBr2Mb-KT)
-### [EX02-04 Download Pokemon Images]()
-### [EX02-05 PTT Gossiping]()
+### [EX02-04 Download Pokemon Images](https://colab.research.google.com/drive/1puHGI0WI9P8QazUYmjGQqjzAa9mO45In#scrollTo=Ljoq8TYIQLBo)
+### [EX02-05 PTT Gossiping](https://colab.research.google.com/drive/1aYQ5j7fK5og2gta8737uKaYEH_RSOGfJ#scrollTo=dvTrxSaxLvd1)
 ### [EX02-06 開眼電影]()
 ### [EX02-07 KKDay]()
 ## Web Crawler
