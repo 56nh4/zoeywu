@@ -12,7 +12,7 @@
 ### [EX02-03 Yahoo 新聞儲存 Google 試算表](https://colab.research.google.com/drive/1MCGWwsijBz-7HqDrupPRZFs2UMTjmwTE#scrollTo=L1SeBr2Mb-KT)
 ### [EX02-04 Download Pokemon Images](https://colab.research.google.com/drive/1puHGI0WI9P8QazUYmjGQqjzAa9mO45In#scrollTo=Ljoq8TYIQLBo)
 ### [EX02-05 PTT Gossiping](https://colab.research.google.com/drive/1aYQ5j7fK5og2gta8737uKaYEH_RSOGfJ#scrollTo=dvTrxSaxLvd1)
-### [EX02-06 開眼電影]()
+### [EX02-06 開眼電影](https://colab.research.google.com/drive/1agwSjQFVqtLJ0X2IK6UCCwlhHNTB6cTu#scrollTo=27x10Zl4Gelj)
 ### [EX02-07 KKDay]()
 ## Web Crawler
 ## Data Analysis
