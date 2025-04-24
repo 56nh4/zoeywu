@@ -26,12 +26,3 @@
 ### [EX03-05 台灣股票市場個股每日成交資訊]()
 ### [EX03-06 出生人口數]()
 ### [EX03-07 Tips]()
-
-## Web Crawler
- ## Data Analysis
- ## Machine Learning
-## Web Crawler
- ## Data Analysis
- ## Machine Learning
- ## Web API
- ## Web System
