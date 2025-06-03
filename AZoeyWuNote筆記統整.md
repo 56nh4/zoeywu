@@ -26,3 +26,20 @@
 ### [EX03-05 台灣股票市場個股每日成交資訊](https://colab.research.google.com/drive/1NPM53hjHo_JCXiCM-uLXlny8F0v2DcvU#scrollTo=8Qx_EXnEwUn2)
 ### [EX03-06 出生人口數](https://colab.research.google.com/drive/1JFVg1z1yk9_llCSDRYQaqUnqVsvTEq8d#scrollTo=Y7Ntq9ua6wEZ)
 ### [EX03-07 Tips](https://colab.research.google.com/drive/1J97_DT5khMK5AHcR2bPLf7sDioGapmUb#scrollTo=XQrwBSra-wXe)
+
+## Machine Learning
+### [EX04-01 汽車車型數值資料轉換]
+### [EX04-02 客戶基本資料編碼]
+### [EX04-03 客戶分群]
+### [EX04-04 加州房價]
+### [EX04-05 辨識鳶尾花]
+### [EX04-06 ET Today 新聞標題分類]
+### [EX04-07 PTT 電影版情感分析]
+
+## Web API
+### [EX05-01 Echo Bot]
+### [EX05-02 Ask Gemini]
+### [EX05-03 Reply Multi-type Messages]
+### [EX05-04 Reply Template Messages]
+
+##
