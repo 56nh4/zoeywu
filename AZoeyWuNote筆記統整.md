@@ -24,5 +24,5 @@
 ### [EX03-03 空氣品質指標(AQI)](https://colab.research.google.com/drive/1dWykSuWR3VhcG11Rfh_vksdc-1LPYrfd?usp=drive_open)
 ### [EX03-04 薪情平台](https://colab.research.google.com/drive/1bqoOD7jhtPI5UYOZMJ3VveurUqjRhXDs#scrollTo=HCPV2GTf2Bdt)
 ### [EX03-05 台灣股票市場個股每日成交資訊](https://colab.research.google.com/drive/1NPM53hjHo_JCXiCM-uLXlny8F0v2DcvU#scrollTo=8Qx_EXnEwUn2)
-### [EX03-06 出生人口數]()
+### [EX03-06 出生人口數](https://colab.research.google.com/drive/1JFVg1z1yk9_llCSDRYQaqUnqVsvTEq8d#scrollTo=Y7Ntq9ua6wEZ)
 ### [EX03-07 Tips]()
