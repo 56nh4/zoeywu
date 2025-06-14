@@ -31,7 +31,7 @@
 ### [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/1GatZ9V85ZfYt7LbVMV6rjx_FBvGBNUiC#scrollTo=3vLdq-R_IdBR)
 ### [EX04-02 客戶基本資料編碼](https://colab.research.google.com/drive/1SipO1rQgYwxZmfCOV5Rrwx4oFEF5GzRC#scrollTo=9as_fnCWMf5L)
 ### [EX04-03 客戶分群](https://colab.research.google.com/drive/1I9Z-INQUWxfQKMDcGmbpJ7VDQXkQJZYe#scrollTo=3PdVUFjnt2uU)
-### [EX04-04 加州房價]
+### [EX04-04 加州房價](https://colab.research.google.com/drive/14hGLGOJwoTFeljlL8jrnt9vPDUIEssk4#scrollTo=dPGUHaKFyB_Q)
 ### [EX04-05 辨識鳶尾花]
 ### [EX04-06 ET Today 新聞標題分類]
 ### [EX04-07 PTT 電影版情感分析]
