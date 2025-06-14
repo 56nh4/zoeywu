@@ -33,7 +33,7 @@
 ### [EX04-03 客戶分群](https://colab.research.google.com/drive/1I9Z-INQUWxfQKMDcGmbpJ7VDQXkQJZYe#scrollTo=3PdVUFjnt2uU)
 ### [EX04-04 加州房價](https://colab.research.google.com/drive/14hGLGOJwoTFeljlL8jrnt9vPDUIEssk4#scrollTo=dPGUHaKFyB_Q)
 ### [EX04-05 辨識鳶尾花](https://colab.research.google.com/drive/1DBeY2dNGkHweEi5iRcgHKr_6S5iYDMGa#scrollTo=O493pYNz4TbV)
-### [EX04-06 ET Today 新聞標題分類]
+### [EX04-06 ET Today 新聞標題分類](https://colab.research.google.com/drive/1HdhuEe_oEmgJM7WrRQtFI7nHei-cMAwn#scrollTo=KBLUN0eAYfsG)
 
 ## Web API
 ### [EX05-01 Echo Bot]
