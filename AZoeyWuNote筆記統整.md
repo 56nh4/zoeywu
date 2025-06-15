@@ -39,6 +39,6 @@
 ### [EX05-01 Echo Bot](https://colab.research.google.com/drive/1EsWofzhJc_qzZZpuTGOg4yMyabHrqBCf#scrollTo=BD87TYsDADB5)
 ### [EX05-02 Ask Gemini](https://colab.research.google.com/drive/1t7Ikzj2wPQs0Yyjzsyrk3XZH3nrBskga#scrollTo=LV-gi84Ec_UT)
 ### [EX05-03 Reply Multi-type Messages](https://colab.research.google.com/drive/1M9cusal6Xj1ebZk4u5dvHD9lTd-XHeua#scrollTo=ZsoLgggTiK8J)
-### [EX05-04 Reply Template Messages]
+### [EX05-04 Reply Template Messages](https://colab.research.google.com/drive/1vMs3WeCujdTBhqclAHN_khpkUmq4Wl78#scrollTo=UPuzqWWDqA6V)
 
 ##
