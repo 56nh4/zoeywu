@@ -36,7 +36,7 @@
 ### [EX04-06 ET Today 新聞標題分類](https://colab.research.google.com/drive/1HdhuEe_oEmgJM7WrRQtFI7nHei-cMAwn#scrollTo=KBLUN0eAYfsG)
 
 ## Web API
-### [EX05-01 Echo Bot]
+### [EX05-01 Echo Bot](https://colab.research.google.com/drive/1EsWofzhJc_qzZZpuTGOg4yMyabHrqBCf#scrollTo=BD87TYsDADB5)
 ### [EX05-02 Ask Gemini]
 ### [EX05-03 Reply Multi-type Messages]
 ### [EX05-04 Reply Template Messages]
